@@ -1,3 +1,4 @@
-# Apps on Demand Documentation
+# Apps on Demand Docs
 
-> An awesome project.
+---
+
