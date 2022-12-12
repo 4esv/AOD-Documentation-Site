@@ -4,7 +4,7 @@
 
 ### Basics
 
-- [Intro to Apps On Demand (What/Why)]()
+- [Intro to Apps On Demand (What/Why)][/docs/Sections/Basics/Intro.md]
 - [First steps]()
 - [Linking Google Drive]()
 - [Taskbar]()
