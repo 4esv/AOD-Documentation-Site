@@ -4,4 +4,4 @@ A simple proof of concept static site built to host and display documentation fo
 
 Built with [Docsify](https://docsify.js.org/)
 
-Hosted [here](4esv.github.io/AOD-Documentation-Site) for now.
+Hosted [here](https://4esv.github.io/AOD-Documentation-Site) for now.
