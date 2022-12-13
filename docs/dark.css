@@ -340,14 +340,14 @@ body.sticky .sidebar-toggle {
 .markdown-section p.tip {
   background-color: #f8f8f8;
   border-bottom-right-radius: 2px;
-  border-left: 4px solid #f66;
+  border-left: 4px solid #B31B1B;
   border-top-right-radius: 2px;
   margin: 2em 0;
   padding: 12px 24px 12px 30px;
   position: relative;
 }
 .markdown-section p.tip:before {
-  background-color: #f66;
+  background-color: #B31B1B;
   border-radius: 100%;
   color: #3f3f3f;
   content: '!';
