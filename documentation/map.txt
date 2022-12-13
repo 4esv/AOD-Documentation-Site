@@ -1,0 +1,33 @@
+.
+└── documentation
+    └── Basics
+        └── Intro
+        └── Accessing AOD
+        └── Google Drive
+        └── Dropdown Menu
+        └── Switch Windows
+        └── File Explorer
+        └── Clipboard
+        └── Options
+        └── Optimizations
+        └── Full Screen
+        └── Multi Monintor
+        └── Keyboard Shortcuts
+        └── Mac Specific Information
+        └── Exiting AOD
+        └── Web Browsing
+        └── Software Access
+    └── Photoshop
+        └── Custom Libraries
+        └── Brushes
+        └── Gradients
+        └── Swatches
+        └── Patterns
+        └── Exporting
+    └── Illustrator
+        └── Custom Workspaces
+        └── Brushes
+        └── Custom Settings
+    └── Revit
+        └── Custom Libraries
+        └── Custom Materials
