@@ -1,4 +1,4 @@
-<img src="./images/Cornell-Logo.png" alt="Cornell Logo" width="80%" height="auto">
+<img src="./images/Cornell-Logo.png" alt="Cornell Logo" width="100%" height="auto">
 
 * [**Home**](/)
 * [Basics](./Basics/Basics.md)
