@@ -1,7 +1,15 @@
 <img src="./images/Cornell-Logo.png" alt="Cornell Logo" width="100%" height="auto">
 
 * [Home](/)
-* [Basics](./Basics/Basics.md)
+
+* [Getting Started](./Getting-Started/Getting-Started.md)
+
+* [Getting Around](./Getting-Around/Getting-Around.md) 
+
+* [Managing-Your Files](./Managing-Your-Files/Managing-Your-Files.md)
+
+* [Additional Information](./Additional-Information/Additional-Information.md)
+  
 * [**Photoshop**](./Photoshop/Photoshop.md) 
 
     * - [Custom Libraries](./Photoshop/Custom-Libraries.md)
