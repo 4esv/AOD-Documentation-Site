@@ -1,33 +1,36 @@
 .
 └── documentation
-    └── Basics
-        └── Intro
-        └── Accessing AOD
-        └── Google Drive
-        └── Dropdown Menu
-        └── Switch Windows
-        └── File Explorer
-        └── Clipboard
-        └── Options
-        └── Optimizations
-        └── Full Screen
-        └── Multi Monintor
-        └── Keyboard Shortcuts
-        └── Mac Specific Information
-        └── Exiting AOD
-        └── Web Browsing
-        └── Software Access
+    └── Getting Started
+    |    └── Intro
+    |    └── Accessing AOD
+    |    └── Software Access
+    |    └── Exiting AOD
+    └── Getting Around
+    |    └── Full Screen
+    |    └── Multi Monintor
+    |    └── Switch Windows
+    |    └── Dropdown Menu
+    |    └── Function-Keys
+    |    └── Clipboard
+    |    └── Options
+    |    └── Optimizations
+    └── Managing Your Files
+    |    └── Google Drive
+    |    └── File Explorer
+    └── Additional Information    
+    |    └── Web Browsing
+    |    └── Mac Specific Information
     └── Photoshop
-        └── Custom Libraries
-        └── Brushes
-        └── Gradients
-        └── Swatches
-        └── Patterns
-        └── Exporting
+    |    └── Custom Libraries
+    |    └── Brushes
+    |    └── Gradients
+    |    └── Swatches
+    |    └── Patterns
+    |    └── Exporting
     └── Illustrator
-        └── Custom Workspaces
-        └── Brushes
-        └── Custom Settings
+    |    └── Custom Workspaces
+    |    └── Brushes
+    |    └── Custom Settings
     └── Revit
-        └── Custom Libraries
-        └── Custom Materials
+         └── Custom Libraries
+         └── Custom Materials
