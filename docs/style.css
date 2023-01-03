@@ -308,7 +308,8 @@ main.hidden {
   border: 1px solid #eee;
 /* fix horizontal overflow on iOS Safari */
   width: 1px;
-  min-width: 100%;
+  min-width: 800px;
+  min-height: 480px;
 }
 .markdown-section table {
   border-collapse: collapse;
