@@ -7,9 +7,6 @@
   -webkit-touch-callout: none;
   box-sizing: border-box;
 }
-body:not(.ready) {
-  overflow: hidden;
-}
 body:not(.ready) [data-cloak],
 body:not(.ready) .app-nav,
 body:not(.ready) > nav {
